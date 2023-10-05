@@ -1,0 +1,51 @@
+Variables globales 
+
+======================
+archivo general
+
+== Material engranajes ==
+
+k_adm
+sigma_adm
+
+== Parametros vehiculo ==
+
+a 
+Vel_max
+W
+
+== Parametros del motor ==
+
+Rpm_max
+Rpm_min
+Tor_max
+Potencia
+
+== Parametros llanta ==
+
+rueda_carga 
+
+== Fuerzas ==
+R_rodadura 
+R_pendiente 
+R_inercia 
+R_aerodinamica
+
+================
+Archivo restricciones
+
+== Caracteristicas engranajes ==
+
+z11 
+z12 
+z21 
+z22 
+m
+
+================
+Archivo funciones objetivo
+
+
+
+
+
